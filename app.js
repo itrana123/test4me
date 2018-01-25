@@ -1,1 +1,1 @@
-alert ('Here is now');
+console.log ('Hello World.');
